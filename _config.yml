@@ -8,7 +8,18 @@ description: "Write an awesome description for your new site here. You can edit 
 
 
 # Team names, titles and social links
-
+people:
+- name: Christian Bale
+  pic: 
+  position: Owner
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+      
 - name: Larry Parker
   pic: 2
   position: Lead Marketer
@@ -21,7 +32,7 @@ description: "Write an awesome description for your new site here. You can edit 
       url: #
 
 - name: Diana Petersen
-  pic: 3
+  pic: 
   position: Lead Developer
   social:
     - title: twitter
