@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name:
   pic: 
-  position: Owner
+  position: 
   social:
   
       
@@ -28,7 +28,7 @@ people:
 
 - name: 
   pic: 
-  position: Lead Developer
+  position: 
   social:
    
 
